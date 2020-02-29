@@ -3,5 +3,6 @@
 Custom elements and localStorage testing
 
 ## Using
+[https://youngandinnocent.github.io](https://youngandinnocent.github.io)
 
-Use the buttons to add and remove tasks
+Use the ```ADD``` and ```DELETE``` buttons to manage tasks
